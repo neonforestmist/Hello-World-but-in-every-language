@@ -1,0 +1,1 @@
+print("Hello World") // yup, basically python 
